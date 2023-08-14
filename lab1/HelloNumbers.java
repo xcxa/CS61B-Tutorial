@@ -6,6 +6,6 @@ public class HelloNumbers {
             System.out.print(total + " ");
             total = total + x;
             x = x + 1;
-        }s
+        }
 	}
 } 
